@@ -1,0 +1,30 @@
+# Vim Editor files
+*.swp
+tags
+
+# Object files
+*.o
+*.ko
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+ctags
+*.exe
+*.out
+*.app
+
+# GNU Build System shenanigans
+Makefile
+autom4te.cache/
+config.log
+config.status
+

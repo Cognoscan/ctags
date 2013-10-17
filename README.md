@@ -1,11 +1,11 @@
 Exuberant Ctags
 ===============
 Original Author:
-> Darren Hiebert <dhiebert at users.sourceforge.net>
-> http://ctags.sourceforge.net
-> Instant Messaging:
-> Yahoo! ID     : dbhiebert
-> AIM ScreenName: darrenhiebert
+ - Darren Hiebert <dhiebert at users.sourceforge.net>
+ - http://ctags.sourceforge.net
+ - Instant Messaging:
+ - Yahoo! ID     : dbhiebert
+ - AIM ScreenName: darrenhiebert
 
 Exuberant Ctags is a multilanguage reimplementation of the much-underused
 ctags(1) program and is intended to be the mother of all ctags programs. It
